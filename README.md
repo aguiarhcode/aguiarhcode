@@ -8,7 +8,8 @@
  
 </div>
 
-- 🔭 I’m currently working on goodthings app.
+- 🔭 I’m currently creating goodthings.
+- 
 - 🌱 I’m currently learning javascript
 
 
