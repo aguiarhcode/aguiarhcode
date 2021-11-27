@@ -1,4 +1,4 @@
-### Hi there, i'm a software developer 👋
+### Hey, i'm Tom 👋
 
 <div> 
   <a href = "mailto:aguiarhcode@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -8,10 +8,13 @@
  
 </div>
 
-- 🔭 I’m currently creating goodthings.
+🔭  Current 
 
-- 🌱 I’m currently learning typescript
+I’m currently creating goodthings.
 
+⚡️ Experience
+
+I’m currently learning Nextjs/elixir
 
 <!--
 **aguiarhcode/aguiarhcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
