@@ -4,29 +4,15 @@
   <a href = "mailto:aguiarhcode@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/tom%C3%A1s-aguiar-6690481ab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/aguiarhcode/aguiarhcode/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
 
-🔭  Current 
+## 🔭 Current
 
-I’m currently creating goodthings.
+I'm currently working on Goodthings - A new type of social media.
+## ⚡️ Experience
 
-⚡️ Experience
+I like to say that I'm full-stack, I'm learning [Elixir](https://elixir-lang.org) to build scalable realtime systems, and I pair that with React on the frontend. I've been working with React for about 2 years, and JavaScript for more than 3 years.
 
-I’m currently learning Nextjs/elixir
+## 📫 Contact
 
-<!--
-**aguiarhcode/aguiarhcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+To contact me quickly and easily, [DM me on Linkedin](https://www.linkedin.com/in/tom%C3%A1s-aguiar-6690481ab/).
