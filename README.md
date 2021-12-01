@@ -18,3 +18,7 @@ I like to say that I'm full-stack, I'm learning [Elixir](https://elixir-lang.org
 ## 📫 Contact
 
 To contact me quickly and easily, [DM me on Linkedin](https://www.linkedin.com/in/tom%C3%A1s-aguiar-6690481ab/).
+
+If it makes more sense to you, you can contact me by my email.
+
+aguiarhcode@gmail.com
