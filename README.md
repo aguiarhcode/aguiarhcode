@@ -15,7 +15,7 @@ I'm currently working on Goodthings - A new type of social media.
 
 I like to say that I'm full-stack, I'm learning [Rust](https://www.rust-lang.org/) to elevate my skill set, and I pair that with React on the frontend. I've been working with React for about 2 years, and JavaScript for more than 3 years.
 
-## 📫 Contactr
+## 📫 Contact
 
 To contact me quickly and easily, [DM me on Linkedin](https://www.linkedin.com/in/tom%C3%A1s-aguiar-6690481ab/).
 
