@@ -9,7 +9,7 @@ I'm a 17 year old developer.
 </div>
 
 ## 🔭 Current
-
+Internship at Scorpion Sphere, Head of Engineering at Mobile Apps (React Native).
 I'm currently working on Goodthings - The social media we deserve
 ## ⚡️ Experience
 
