@@ -9,8 +9,7 @@ I'm a 17 year old developer.
 </div>
 
 ## 🔭 Current
-Internship at Scorpion Sphere, Head of Engineering at Mobile Apps (React Native).
-I'm currently working on Goodthings - The social media we deserve
+I'm currently working on Full Stack Freelancing.
 ## ⚡️ Experience
 
 I like to say that I'm full-stack, I'm learning [Rust](https://www.rust-lang.org/) to elevate my skill set, and I pair that with React on the frontend. I've been working with React for about 2 years, and JavaScript for more than 3 years.
