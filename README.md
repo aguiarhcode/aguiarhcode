@@ -9,7 +9,7 @@ I'm a 17 year old developer.
 </div>
 
 ## 🔭 Current
-I'm currently working on Full Stack Freelancing.
+I'm currently working on Full Stack Freelancing and creating an open-source cross-platform markdown editor written in Rust.
 ## ⚡️ Experience
 
 I like to say that I'm full-stack, I'm learning [Rust](https://www.rust-lang.org/) to elevate my skill set, and I pair that with React on the frontend. I've been working with React for about 2 years, and JavaScript for more than 3 years.
